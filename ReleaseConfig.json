@@ -1,8 +1,6 @@
 {
-  "releaseDate": "2026-02-027T00:00:00Z",
+  "releaseDate": "2026-03-028T00:00:00Z",
   "links": {
-    "Steam商店页面": "https://store.steampowered.com/app/4391640?utm_source=demo",
-    "官方网站": "https://fluentscroll.example.com",
-    "GitHub仓库": "https://github.com/example/fluentscroll"
+    "Steam": "https://store.steampowered.com/app/4391640?utm_source=demo"
   }
 }
