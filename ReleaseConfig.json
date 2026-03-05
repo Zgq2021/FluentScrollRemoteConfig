@@ -1,7 +1,6 @@
 {
-  "released": true,
+  "released": false,
   "links": {
-    "Steam": "https://store.steampowered.com/app/4391640?utm_source=demo",
-    "Steam1": "https://store.steampowered.com/app/4391640?utm_source=demo"
+    "Steam": "https://store.steampowered.com/app/4391640?utm_source=demo"
   }
 }
